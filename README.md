@@ -40,13 +40,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/qcri/AraSafe-dataset.git
-cd AraSafe-dataset
+cd AraSafe-benchmark
 ```
 
 Directory structure:
 
 ```
-AraSafe-dataset/
+AraSafe-benchmark/
 │
 ├─ human_written/      # 12K gold-annotated prompts
 └─ synthetic/          # 12K GPT-4o–generated harmful prompts

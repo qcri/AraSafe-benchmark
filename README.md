@@ -1,5 +1,7 @@
 # AraSafe: Benchmarking Safety in Arabic LLMs
 
+[![Paper](https://img.shields.io/badge/Check_Out_The%20Paper-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2OCIgaGVpZ2h0PSI0NiIgdmVyc2lvbj0iMS4wIj48cGF0aCBkPSJNNDEuOTc4IDB2My4wMTZIMFY0Nmg2OFYzMC45OTRINTYuOTg4VjBoLTE1LjAxek0xNS4wMSAxNy45ODZoMjYuOTY4djEzLjAwOEgxNS4wMVYxNy45ODZ6IiBzdHlsZT0iZmlsbDojZWQxYzI0O2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxMi44OTU0MTE0OTtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO3N0cm9rZS1vcGFjaXR5OjEiLz48L3N2Zz4=)](https://aclanthology.org/2025.findings-emnlp.529/)
+
 This repository contains the datasets released with the EMNLP 2025 paper
 **AraSafe: Benchmarking Safety in Arabic LLMs**.
 
